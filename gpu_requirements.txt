@@ -1,0 +1,21 @@
+# Core PyTorch with CUDA 12.1
+torch==2.1.0+cu121 --index-url https://download.pytorch.org/whl/cu121
+torchvision==0.16.0+cu121 --index-url https://download.pytorch.org/whl/cu121
+torchaudio==2.1.0+cu121 --index-url https://download.pytorch.org/whl/cu121
+
+# Transformers and related
+accelerate>=0.20.0
+bitsandbytes>=0.41.0
+
+# FAISS for GPU
+faiss-gpu==1.7.4
+
+# Other requirements from original file
+flask>=3.0.0
+python-dotenv>=1.0.0
+pypdf>=3.0.0
+pdfplumber>=0.10.0
+transformers>=4.30.0
+sentence-transformers>=2.2.2
+numpy>=1.26.0
+scikit-learn>=1.3.0

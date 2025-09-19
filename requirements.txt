@@ -1,0 +1,9 @@
+streamlit
+sentence-transformers
+torch
+pypdf
+pdfplumber
+numpy
+scikit-learn
+tqdm
+faiss-cpu

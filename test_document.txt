@@ -1,0 +1,14 @@
+Test Document for StudyMate
+
+This is a test document for StudyMate. It contains some sample text that we can use to test the PDF processing and question answering capabilities of the application.
+
+The quick brown fox jumps over the lazy dog. This is a common pangram that contains every letter of the English alphabet.
+
+StudyMate is an AI-powered Q&A system that allows users to upload PDF documents and ask questions about their content. It uses semantic search and large language models to provide accurate answers based on the document content.
+
+Key features of StudyMate include:
+- PDF text extraction and processing
+- Semantic search using FAISS
+- Question answering with IBM Granite LLM
+- Interactive web interface
+- Local processing for data privacy
